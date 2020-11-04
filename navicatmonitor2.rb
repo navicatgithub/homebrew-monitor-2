@@ -1,8 +1,8 @@
 class Navicatmonitor2 < Formula
   desc "Navicat Monitor is a safe, simple and agentless remote server monitoring tool that is packed with powerful features to make your monitoring effective as possible."
   homepage "https://www.navicat.com/en/products#navicat-monitor"
-  url "https://navicat-download.oss-us-east-1.aliyuncs.com/monitor2-download/homebrew/navicat-monitor_2.4.9.3.tar.gz"
-  sha256 "d7751e02a86c27b2f06c4b17a5a13ba6af143b28ca270c35fcdb67b764cd53e8"
+  url "https://navicat-download.oss-us-east-1.aliyuncs.com/monitor2-download/homebrew/navicat-monitor_2.5.0.3.tar.gz"
+  sha256 "be03791aa9ebd4566997741b6bf0ae85b61c39efb5390cfc30a7b5b5277235b8"
 
   bottle :unneeded
 
