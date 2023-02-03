@@ -4,8 +4,6 @@ class Navicatmonitor2 < Formula
   url "https://navicat-download.oss-us-east-1.aliyuncs.com/monitor2-download/homebrew/navicat-monitor_2.8.2.3.tar.gz"
   sha256 "cf372f6375e8f2c7852f9b80b53193d2e6ec2826b379904205a9a955832cd34e"
 
-  bottle :unneeded
-
   def install
     # Preload
     system "./install.sh"
